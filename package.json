@@ -1,0 +1,14 @@
+{
+  "name": "aws-pricing-calculator-tool",
+  "version": "1.0.0",
+  "description": "AWS Pricing Calculator を便利に利用するためのツール",
+  "main": "transformCalclateResultJson.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
